@@ -1,0 +1,4 @@
+selenium==4.34.0
+pandas==2.3.0
+webdriver-manager==4.0.2
+lxml
